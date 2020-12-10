@@ -1,6 +1,6 @@
 # Hand-Cricket Game built using C
 
-##Rules of the game
+## Rules of the game
 
 1.The User has to spin a coin during the toss,based on the outcome of the toss, the user will bat or field first!
 
